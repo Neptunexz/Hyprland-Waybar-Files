@@ -8,7 +8,7 @@ Files are highly customizable, and the tutorial for adding/removing app icons is
   * Extract it into your ~/.config/ directory
 
 # How to set it up:
-  * Go into your main hyprland configuration file (most are at ~/.config/hypr/hyprland.conf
+  * Go into your main hyprland configuration file (most are at ~/.config/hypr/hyprland.conf)
   * Make sure your waybar is set to autostart, by adding this line:
       * exec-once = waybar
 
