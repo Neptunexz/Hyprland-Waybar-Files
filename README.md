@@ -18,14 +18,14 @@ Files are highly customizable, and the tutorial for adding/removing app icons is
   * Go to modules-right, and add your custom app, by naming it "custom/<app>" (let <app> be your name for it).
   * Next, add the configuration for it. To do this add the following lines:
     "custom/<app>": {
-      "format": "<icon>",      (more info on this below)
+      "format": "icon",      (more info on this below)
       "tooltip": <app-name, with capital letter>,
       "on-click": <app-name>
       }
 # To add an app icon photo:
   * Go to www.nerdfonts.com/cheat-sheet
   * Search for the app you want an icon for
-  * Copy the UTF, and put that where "<icon>" is.
+  * Copy the UTF, and put that where "icon" is.
 
 # To delete an app icon:
   * Go into your ~/.config/waybar/config file and look for the section that says: "modules-left", "modules-center", and "modules-right".
