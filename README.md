@@ -25,7 +25,7 @@ Files are highly customizable, and the tutorial for adding/removing app icons is
 # To add an app icon photo:
   * Go to www.nerdfonts.com/cheat-sheet
   * Search for the app you want an icon for
-  * Copy the UTF, and put that where <icon> is.
+  * Copy the UTF, and put that where "<icon>" is.
 
 # To delete an app icon:
   * Go into your ~/.config/waybar/config file and look for the section that says: "modules-left", "modules-center", and "modules-right".
