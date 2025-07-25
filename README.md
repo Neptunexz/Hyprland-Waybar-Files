@@ -1,7 +1,7 @@
 # Hyprland-Waybar-Files
-Just the files I used for my waybar. 
+* Just the files I used for my waybar. 
 Files are highly customizable, and the tutorial for adding/removing app icons is also included. 
-Check the waybar.png file attached to see it!
+* Check the waybar.png file attached to see it!
 
 
 # How to install:
