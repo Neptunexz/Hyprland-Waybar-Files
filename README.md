@@ -21,7 +21,7 @@ Files are highly customizable, and the tutorial for adding/removing app icons is
       "tooltip": <app-name, with capital letter>,
       "on-click": <app-name>
       }
-# To add an app icon: 
+# To add an app icon photo:
   * Go to www.nerdfonts.com/cheat-sheet
   * Search for the app you want an icon for
   * Copy the UTF, and put that where <icon> is.
